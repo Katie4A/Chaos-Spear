@@ -60,6 +60,10 @@ namespace Chaos_Spear
                 {
                     button3_Click(sender, e);
                 }
+                else if (key == KeyCode.VcF8)
+                {
+                    button4_Click(sender, e);
+                }
             }
         }
 
